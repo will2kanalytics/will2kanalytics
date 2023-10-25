@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @will2kanalytics
+- 👀 I’m interested in ... Football Analytics.
+- 🌱 I’m currently learning ... Data Science & Business Analytics at UT-Austin McCombs School of Business. I graduated from Marquette University in May of 2022 with a Bachelor of Science in Business Administration.
+- 💞️ I’m looking to collaborate on ... Data projects involving football whether it be high school, college, or professional. 
+- 📫 How to reach me ... www.linkedin.com/in/williamthomasperez
